@@ -1,5 +1,8 @@
-# api documentation for  [stylelint-scss (v1.4.4)](https://github.com/kristerkari/stylelint-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stylelint-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stylelint-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stylelint-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stylelint-scss)
-#### A collection of SCSS specific rules for stylelint
+# npmdoc-stylelint-scss
+
+api documentation for  [stylelint-scss (v1.4.4)](https://github.com/kristerkari/stylelint-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stylelint-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stylelint-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stylelint-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stylelint-scss)
+
+A collection of SCSS specific rules for stylelint
 
 [![NPM](https://nodei.co/npm/stylelint-scss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stylelint-scss)
 
